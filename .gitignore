@@ -6,3 +6,4 @@ env/
 .Python
 *.py[cod]
 .idea/
+db.*
